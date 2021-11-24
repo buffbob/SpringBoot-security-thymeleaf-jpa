@@ -1,16 +1,23 @@
-Fully functioning website with Spring WebSecurity(authorize, authenticate).
+## Fully functioning website with Spring WebSecurity(authorize, authenticate).
+### Complete Structure with repos, dto, userDetailsService implemented, etc
 
-Complete Structure
+# The Login Page
 
-<img src="ss1.jpg" alt="screenshot>
+![Alt text](ss1.png?raw=true "Login Page")
 
+# The Registration page before logging in
 
-
-
-
-
+![Alt text](ss3.png?raw=true "Login Page")
 
 
-## This is from the YouTube Tutorial Series - Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL
+# The Registration page after successful login
 
-#@ https://www.youtube.com/watch?v=KKjKFLKlCbc
+![Alt text](ss2.png?raw=true "Login Page")
+
+<p>
+  Please note- this is backed by a local instance of mysql, that must be configured. Suggested reading- <a href='https://dev.mysql.com/doc/mysql-getting-started/en/'>dude</a>.
+</p>
+
+### This is from the YouTube Tutorial Series - Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL
+
+### https://www.youtube.com/watch?v=KKjKFLKlCbc
